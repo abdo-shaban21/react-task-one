@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* color: red; */
+}
+.container{
+    padding: 3em 2em;
+    /* display: none; */
+}
+body{
+    background-color: #f2f2f2;
+    text-transform: capitalize;
+}
+.nav{
+    height: 100vh;
+}
+.header{
+    padding-bottom: 2em;
+    color: #1d1d1d;
+    text-transform: uppercase;
+}
+.all-broduct{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+}
